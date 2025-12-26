@@ -248,10 +248,10 @@ Thus, the program was implemented and executed successfully, and the required ou
   Decrease i by 1 and go back to Step 6.
 ### Step 8:
   Stop
-Program:
+# Program:
   <img width="505" height="330" alt="image" src="https://github.com/user-attachments/assets/1bcc3ad1-ece1-48b3-8e07-8e4a6ebb4c8b" />
 
-Output:
+# Output:
 <img width="499" height="262" alt="image" src="https://github.com/user-attachments/assets/ebc40b0f-3766-45d1-bb08-c3f884ebd427" />
 
 # Result:
